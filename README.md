@@ -6,4 +6,4 @@ Welcome to my collection of exploratory data analysis (EDA) projects. Each folde
 
 | Project                    | Description                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------- |
-| [Sales Data](./sales-data) | EDA of 12-month sales dataset (products, revenue trends, customer cities, etc.) |
+| [Sales Data](./sales data) | EDA of 12-month sales dataset (products, revenue trends, customer cities, etc.) |
